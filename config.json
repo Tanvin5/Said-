@@ -16,13 +16,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "JOY-BOT",
+    "BOTNAME": "T-BOT",
     "PREFIX": ".",
     "ADMINBOT": [
-        "100000121528628"
+        "61576219142781"
     ],
     "NDH": [
-        "100000121528628"
+        "61576219142781"
     ],
     "DATABASE": {
         "sqlite": {
